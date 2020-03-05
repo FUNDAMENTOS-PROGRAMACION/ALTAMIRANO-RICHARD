@@ -10,3 +10,6 @@
 *Jimenez
 Ordenadas
    1.poli
+````javascript
+var a = 1
+````

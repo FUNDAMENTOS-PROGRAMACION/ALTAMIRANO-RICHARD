@@ -16,6 +16,16 @@ public class TrabajoEnClase {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-    }
-    
+    }//declarar variables//
+
+int numeroEntero = 5 ;
+double numeroDouble = 3.14;
+char letras = 'A' ;
+String cadena = "hola mundo";
+boolean valorBoolean = false;
+boolean valorboo1 = true;
+/*Solo numeros que representan las distancias de la variable dada
+en el libro de materia vista
+*/
+
 }

@@ -27,5 +27,7 @@ boolean valorboo1 = true;
 /*Solo numeros que representan las distancias de la variable dada
 en el libro de materia vista
 */
-
+public void imprimirNombre(){
+System.out.println("pedro");
+}
 }

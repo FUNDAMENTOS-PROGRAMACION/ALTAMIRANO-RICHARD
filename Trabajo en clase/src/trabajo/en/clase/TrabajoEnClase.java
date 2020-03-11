@@ -29,5 +29,15 @@ en el libro de materia vista
 */
 public void imprimirNombre(){
 System.out.println("pedro");
+//System.out.println("juan \n perez");
+//System.out.println("kevin\tin");
+String nombre= " juan ";
+System.out.println(nombre.length());
+System.out.println(nombre.trim());
+System.out.println(nombre.toUpperCase());
+System.out.println(nombre.toLowerCase());
+System.out.println(nombre.replace(nombre, " Richard "));
+System.out.println(nombre.split(" "));
+
 }
 }
